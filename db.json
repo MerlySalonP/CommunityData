@@ -1,4 +1,6 @@
-[
+{
+  "groups" 
+  [
   {
     "nombre_grupo": "Amantes de la Ficción",
     "descripcion": "Un grupo para discutir las últimas novelas de ficción y compartir recomendaciones de libros.",
@@ -29,4 +31,6 @@
     "cantidad_miembros": 1820,
     "imagen": "https://example.com/imagenes/grupo5.jpg"
   }
+    
 ]
+}
